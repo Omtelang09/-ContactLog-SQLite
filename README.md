@@ -1,0 +1,2 @@
+# -ContactLog-SQLite
+The purpose of Contact Log System is to automate the existing manual system by the help of computerized equipment and full fledged computer software. It is a python based project using tkinter and SQLite. Talking about the system, it contains all the required functions which include adding, viewing, deleting and updating contact lists. This GUI based Contact Log provides the simplest management of contact details. In short, this projects mainly focus on CRUD. 
